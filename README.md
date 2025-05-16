@@ -1,2 +1,1 @@
-# MHXI
-MasseyHacks XI Arduino Workshop
+# MasseyHacks XI Arduino Workshop
